@@ -25,4 +25,4 @@ run "stages/circularize".
 
 clearscreen.
 print "You should be in stable orbit now.".
-print "Thank you for flying for Ev-Pilots.".
+print "Thank you for flying with Eevee-Pilots.".
